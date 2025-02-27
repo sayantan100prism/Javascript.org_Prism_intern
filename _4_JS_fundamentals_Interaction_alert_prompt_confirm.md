@@ -1,3 +1,5 @@
+--> alert
+
 <script>alert("Hello");</script>
 
 The mini-window with the message is called a modal window. 
