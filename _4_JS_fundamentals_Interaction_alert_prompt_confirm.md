@@ -1,4 +1,4 @@
-alert("Hello");
+<script>alert("Hello");</script>
 
 The mini-window with the message is called a modal window. 
 The word “modal” means that the visitor can’t interact with the rest of the page, 
