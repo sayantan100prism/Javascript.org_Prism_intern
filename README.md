@@ -5,14 +5,14 @@ This repository provides an overview of JavaScript fundamentals and advanced con
 ## Table of Contents
 
 1. **JavaScript Fundamentals**
-   - 1.Introduction to JavaScript's Attributes and Interactions
-   - 2.Variables and constants (`let`, `const`, `var`)
-   - 3.Data types and type conversion
+   - 1. Introduction to JavaScript's Attributes and Interactions
+   - 2. Variables and constants (`let`, `const`, `var`)
+   - 3. Data types and type conversion
    - Operators and expressions
    - Control flow (if-else, loops, switch)
 
-2. **Objects and Data Structures**
-   - Object properties and methods
+2. **Objects : the basics**
+   - 1. Object properties 
    - Object references and copying
    - Garbage collection
    - `this` keyword
